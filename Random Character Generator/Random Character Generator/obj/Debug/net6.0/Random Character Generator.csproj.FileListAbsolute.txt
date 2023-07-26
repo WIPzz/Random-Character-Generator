@@ -1,0 +1,15 @@
+C:\Users\zulia\Desktop\C#\Projekte\Random Character Generator\Random Character Generator\obj\Debug\net6.0\Random Character Generator.csproj.AssemblyReference.cache
+C:\Users\zulia\Desktop\C#\Projekte\Random Character Generator\Random Character Generator\obj\Debug\net6.0\Random Character Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zulia\Desktop\C#\Projekte\Random Character Generator\Random Character Generator\obj\Debug\net6.0\Random Character Generator.AssemblyInfoInputs.cache
+C:\Users\zulia\Desktop\C#\Projekte\Random Character Generator\Random Character Generator\obj\Debug\net6.0\Random Character Generator.AssemblyInfo.cs
+C:\Users\zulia\Desktop\C#\Projekte\Random Character Generator\Random Character Generator\obj\Debug\net6.0\Random Character Generator.csproj.CoreCompileInputs.cache
+C:\Users\zulia\Desktop\C#\Projekte\Random Character Generator\Random Character Generator\bin\Debug\net6.0\Random Character Generator.exe
+C:\Users\zulia\Desktop\C#\Projekte\Random Character Generator\Random Character Generator\bin\Debug\net6.0\Random Character Generator.deps.json
+C:\Users\zulia\Desktop\C#\Projekte\Random Character Generator\Random Character Generator\bin\Debug\net6.0\Random Character Generator.runtimeconfig.json
+C:\Users\zulia\Desktop\C#\Projekte\Random Character Generator\Random Character Generator\bin\Debug\net6.0\Random Character Generator.dll
+C:\Users\zulia\Desktop\C#\Projekte\Random Character Generator\Random Character Generator\bin\Debug\net6.0\Random Character Generator.pdb
+C:\Users\zulia\Desktop\C#\Projekte\Random Character Generator\Random Character Generator\obj\Debug\net6.0\Random Character Generator.dll
+C:\Users\zulia\Desktop\C#\Projekte\Random Character Generator\Random Character Generator\obj\Debug\net6.0\refint\Random Character Generator.dll
+C:\Users\zulia\Desktop\C#\Projekte\Random Character Generator\Random Character Generator\obj\Debug\net6.0\Random Character Generator.pdb
+C:\Users\zulia\Desktop\C#\Projekte\Random Character Generator\Random Character Generator\obj\Debug\net6.0\Random Character Generator.genruntimeconfig.cache
+C:\Users\zulia\Desktop\C#\Projekte\Random Character Generator\Random Character Generator\obj\Debug\net6.0\ref\Random Character Generator.dll

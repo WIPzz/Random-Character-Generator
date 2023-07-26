@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Random Character Generator/1.0.0": {
+        "runtime": {
+          "Random Character Generator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Random Character Generator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
